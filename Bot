@@ -38,7 +38,7 @@ def index2():
 	return "hello world",200
 	
 def replyapi(accesstoken,msg):
-	channeltoken={Your Channel_Access_Token}	
+	channeltoken={yDq5oDLT0tWkzta1NliNJEJKFLZYU6gLIEqNhisz0OOL5s76N/KxeST5yMBrzMt5Dr2wLbEbLGagOc1CLSeYvQpWMp+bgWGNiFokqf80PFJUrF8/TD7A3b6Z5jgd3XDYHzVGUTG2UtkbCqcUZT3XcgdB04t89/1O/w1cDnyilFU=}	
     
     #下面註解起來的程式碼，是利用Line SDK的方式，做reply的作業。	
     """
