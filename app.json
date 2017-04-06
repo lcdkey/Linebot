@@ -3,7 +3,7 @@
   "description": "Line Bot API template",
   "repository": "https://github.com/lcdkey/LineBot",
   "keywords": ["Line", "go", "static"],
-  "buildpacks": 
+  "buildpacks": [
     {
       "url": "https://github.com/kr/heroku-buildpack-go.git"
     },
